@@ -1,6 +1,6 @@
-Name: [Your Name]
-Matric Number: [Your Matric Number]
+Name: Adeola DANIEL
+Matric Number: 22CG031809
 Machine Learning Algorithm Used: Random Forest Regressor
 Model persistence method used: Joblib
 Live URL of the hosted application: [Your deployment URL here]
-GitHub repository link: [Your GitHub repository URL here]
+GitHub repository link: https://github.com/Daniel-20051/House_Project_ADEOLA-DANIEL_22CG031809.git
